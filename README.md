@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/75671152/132247486-0eb918aa-7f5e-4042-8380-82ce77d4d289.png)
 
-**Blood Buddy** is a website that offers blood donation services to anyone in need. The website works :
+**Health-Sphere** is a website that offers blood donation services to anyone in need. The website works :
 
 1. Register on the website.
 2. Add your address.
