@@ -34,12 +34,12 @@
 
 **0.**  Create your own issue or choose one already mentioned in under issues section.
 
-**1.**  Fork [this](https://github.com/2024-SANDHYA/Bloody-Buddy.git) repo.
+**1.**  Fork [this](https://github.com/2024-SANDHYA/Healthsphere.git) repo.
 
 **2.**  Clone your fork copy of the project which'll be visible in your account.
 
 ```
-git clone --depth 1 https://github.com/<your_user_name>/Blood-Buddy.git
+git clone --depth 1 https://github.com/<your_user_name>/Healthsphere.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
@@ -51,7 +51,7 @@ cd Blood-Buddy
 **4.** Add a remote upstream to the original repository.
 
 ```
-git remote add upstream https://github.com/2024-SANDHYA/Blood-Buddy.git
+git remote add upstream https://github.com/2024-SANDHYA/Healthsphere.git
 ```
 
 **5.** Check the remotes for the repository.
